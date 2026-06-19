@@ -38,6 +38,7 @@ I was particularly interested in building a project that involved both hardware 
 My goal was to create a simple design that demonstrates the fundamentals of a prosthetic tech while leaving room of future improvments such as EMG-based control and ore natural movement.
 
 ## Credits
+
 Blender
 Onshape
 Thank you so much to all my Friends & Mentors
