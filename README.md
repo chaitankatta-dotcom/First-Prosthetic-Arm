@@ -39,9 +39,9 @@ My goal was to create a simple design that demonstrates the fundamentals of a pr
 
 ## Credits
 
-Blender
-Onshape
-Thank you so much to all my Friends & Mentors
+Blender, Onshape and finally Thank you so much to all my Friends & Mentors
+
+## Pictures
 <img width="588" height="260" alt="Assembly 1" src="https://github.com/user-attachments/assets/066d7b47-3a4c-4c2e-b121-c9ca13ac0af2" />
 <img width="449" height="385" alt="Assembly 2" src="https://github.com/user-attachments/assets/ae0964c0-1f5a-4b8f-871e-b33b8ddd5888" />
 <img width="960" height="600" alt="Wiring Picture" src="https://github.com/user-attachments/assets/d34898ba-22b8-4ba3-adb9-ff9f30fe9a67" />
