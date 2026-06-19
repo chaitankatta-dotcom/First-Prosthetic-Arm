@@ -30,7 +30,7 @@ How to Use:
   The fingerswill move according to the programmed commands,
   Modify the code to create new movement patterns or gestures.
 
-Why I Made This
+Why I Made This:
 I created this project because I wanted to combine my interes in biology and engineering. Prosthetics are a perfect example of how technology can be used to improve people's lives by restoring lost functionality.
 
 I was particularly interested in building a project that involved both hardware and programming while also relating to the human body. Designing a prosthetic hand allowed me to explore concepts from biomechanics, robotics, and medicine in a hand on way.
