@@ -45,3 +45,17 @@ Blender, Onshape and finally Thank you so much to all my Friends & Mentors
 <img width="588" height="260" alt="Assembly 1" src="https://github.com/user-attachments/assets/066d7b47-3a4c-4c2e-b121-c9ca13ac0af2" />
 <img width="449" height="385" alt="Assembly 2" src="https://github.com/user-attachments/assets/ae0964c0-1f5a-4b8f-871e-b33b8ddd5888" />
 <img width="960" height="600" alt="Wiring Picture" src="https://github.com/user-attachments/assets/d34898ba-22b8-4ba3-adb9-ff9f30fe9a67" />
+
+## BOM
+
+| Item | Description | Quantity | Unit Cost (USD) | Total Cost (USD) | Link |
+|---|---|---:|---:|---:|---|
+| SG90 Servo | SG90 9g micro servo motor | 4 | $2.75 | $10.98 | https://www.amazon.com/Micro-Miuzei-Servos-Arduino-Airplane/dp/B0FGQ432JP |
+| MG996R Servo | MG996R metal gear high torque servo | 1 | $4.99 | $4.99 | https://www.waveshare.com/mg996r-servo.htm |
+| Jumper Wires | Raspberry Pi/Arduino jumper wire pack | 1 | $5.99 | $5.99 | https://vilros.com/products/jumper-wires |
+| Raspberry Pi Pico | Raspberry Pi Pico microcontroller board | 1 | $3.99 | $3.99 | https://www.microcenter.com/product/661033/raspberry-pi-pico-microcontroller-development-board |
+| Breadboard | Solderless breadboard for wiring Raspberry Pi Pico and servo connections | 1 | $5.99 | $5.99 | https://www.amazon.com/s?k=solderless+breadboard |
+| Small Rubber Bands | Small rubber bands for finger return tension or elastic movement | 1 | $4.99 | $4.99 | https://www.amazon.com/s?k=small+rubber+bands |
+| M3 Screw Assortment Kit | M3 screws/bolts with nuts and washers for most finger and palm holes | 1 | $8.99 | $8.99 | https://www.amazon.com/s?k=M3+screw+assortment+kit+nuts+washers |
+| M4 Screws | Optional M4 screws for larger hinge holes around 4 mm diameter | 1 | $6.99 | $6.99 | https://www.amazon.com/s?k=M4+screws+nuts+washers |
+| **TOTAL** |  |  |  | **$52.91** |  |
