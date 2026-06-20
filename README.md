@@ -59,3 +59,7 @@ Blender, Onshape and finally Thank you so much to all my Friends & Mentors
 | M3 Screw Assortment Kit | M3 screws/bolts with nuts and washers for most finger and palm holes | 1 | $8.99 | $8.99 | https://www.amazon.com/s?k=M3+screw+assortment+kit+nuts+washers |
 | M4 Screws | Optional M4 screws for larger hinge holes around 4 mm diameter | 1 | $6.99 | $6.99 | https://www.amazon.com/s?k=M4+screws+nuts+washers |
 | **TOTAL** |  |  |  | **$52.91** |  |
+
+## Zine
+
+<img width="1410" height="2000" alt="Low Cost Prosthetic Hand" src="https://github.com/user-attachments/assets/41b5b1fd-5be5-4baa-a698-b03f192f8a9a" />
