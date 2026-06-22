@@ -165,16 +165,19 @@ Blender, Onshape and finally Thank you so much to all my Friends & Mentors
 
 ## BOM
 
-Item,Description,Quantity,Unit Cost (USD),Total Cost (USD),Link
-SG90 Servo,SG90 9g micro servo motor,4,2.75,10.98,https://www.amazon.com/Micro-Miuzei-Servos-Arduino-Airplane/dp/B0FGQ432JP
-MG996R Servo,MG996R metal gear high torque servo,1,4.99,4.99,https://www.waveshare.com/mg996r-servo.htm
-Jumper Wires,Raspberry Pi/Arduino jumper wire pack,1,5.99,5.99,https://vilros.com/products/jumper-wires
-Raspberry Pi Pico,Raspberry Pi Pico microcontroller board,1,3.99,3.99,https://www.microcenter.com/product/661033/raspberry-pi-pico-microcontroller-development-board
-Budget Soldering Kit,Basic soldering iron kit for connecting wires/electronics,1,10.99,10.99,https://www.walmart.com/ip/Soldering-Iron-Kit-Electric-60W-110V-Adjustable-Temperature-Soldering-Gun-Welding-Tools-5pcs-Replacement-Tips-and-Solder-Wire-Tube-Basic/5744425180
-Small Rubber Bands,Small rubber bands for finger return tension or elastic movement,1,4.99,4.99,https://www.amazon.com/s?k=small+rubber+bands
-M3 Screw Assortment Kit,M3 screws/bolts with nuts and washers for most finger and palm holes,1,8.99,8.99,https://www.amazon.com/s?k=M3+screw+assortment+kit+nuts+washers
-M4 Screws,Optional M4 screws for larger hinge holes around 4 mm diameter,1,6.99,6.99,https://www.amazon.com/s?k=M4+screws+nuts+washers
-TOTAL,,,,57.91,[Untitled spreadsheet - prosthetic_hand_BOM (1).csv](https://github.com/user-attachments/files/29216812/Untitled.spreadsheet.-.prosthetic_hand_BOM.1.csv)
+## Bill of Materials (BOM)
+
+| Item | Description | Quantity | Unit Cost (USD) | Total Cost (USD) | Link |
+|---|---|---:|---:|---:|---|
+| SG90 Servo | SG90 9g micro servo motor | 4 | $2.75 | $10.98 | https://www.amazon.com/Micro-Miuzei-Servos-Arduino-Airplane/dp/B0FGQ432JP |
+| MG996R Servo | MG996R metal gear high torque servo | 1 | $4.99 | $4.99 | https://www.waveshare.com/mg996r-servo.htm |
+| Jumper Wires | Raspberry Pi/Arduino jumper wire pack | 1 | $5.99 | $5.99 | https://vilros.com/products/jumper-wires |
+| Raspberry Pi Pico | Raspberry Pi Pico microcontroller board | 1 | $3.99 | $3.99 | https://www.microcenter.com/product/661033/raspberry-pi-pico-microcontroller-development-board |
+| Budget Soldering Kit | Basic soldering iron kit for connecting wires/electronics | 1 | $10.99 | $10.99 | https://www.walmart.com/ip/Soldering-Iron-Kit-Electric-60W-110V-Adjustable-Temperature-Soldering-Gun-Welding-Tools-5pcs-Replacement-Tips-and-Solder-Wire-Tube-Basic/5744425180 |
+| Small Rubber Bands | Small rubber bands for finger return tension or elastic movement | 1 | $4.99 | $4.99 | https://www.amazon.com/s?k=small+rubber+bands |
+| M3 Screw Assortment Kit | M3 screws/bolts with nuts and washers for most finger and palm holes | 1 | $8.99 | $8.99 | https://www.amazon.com/s?k=M3+screw+assortment+kit+nuts+washers |
+| M4 Screws | Optional M4 screws for larger hinge holes around 4 mm diameter | 1 | $6.99 | $6.99 | https://www.amazon.com/s?k=M4+screws+nuts+washers |
+| **TOTAL** |  |  |  | **$57.91** |  |
 
 ## Zine
 
