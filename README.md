@@ -174,7 +174,7 @@ Budget Soldering Kit,Basic soldering iron kit for connecting wires/electronics,1
 Small Rubber Bands,Small rubber bands for finger return tension or elastic movement,1,4.99,4.99,https://www.amazon.com/s?k=small+rubber+bands
 M3 Screw Assortment Kit,M3 screws/bolts with nuts and washers for most finger and palm holes,1,8.99,8.99,https://www.amazon.com/s?k=M3+screw+assortment+kit+nuts+washers
 M4 Screws,Optional M4 screws for larger hinge holes around 4 mm diameter,1,6.99,6.99,https://www.amazon.com/s?k=M4+screws+nuts+washers
-TOTAL,,,,57.91,
+TOTAL,,,,57.91,[Untitled spreadsheet - prosthetic_hand_BOM (1).csv](https://github.com/user-attachments/files/29216812/Untitled.spreadsheet.-.prosthetic_hand_BOM.1.csv)
 
 ## Zine
 
