@@ -37,6 +37,150 @@ I was particularly interested in building a project that involved both hardware 
 
 My goal was to create a simple design that demonstrates the fundamentals of a prosthetic tech while leaving room of future improvments such as EMG-based control and more natural movement.
 
+## Overview
+
+This guide explains how to assemble the simple robotic prosthetic hand. The hand uses 3D-printed finger parts, servo motors, screws, rubber bands, jumper wires, and a Raspberry Pi Pico to move the fingers through programmed code.
+
+## Parts Needed
+
+* 3D-printed palm
+* 3D-printed finger segments
+
+  * Pinky base, middle, and tip pieces
+  * Ring base, middle, and tip pieces
+  * Middle finger base, middle, and tip pieces
+  * Pointer/index finger base, middle, and tip pieces
+  * Thumb base and tip pieces
+* 4 SG90 micro servos
+* 1 MG996R servo
+* Raspberry Pi Pico
+* Servo board or mounting plate
+* Jumper wires
+* Small rubber bands
+* M3 screws, nuts, and washers
+* Optional M4 screws for larger hinge holes
+* Budget soldering kit
+* Screwdriver
+* Pliers
+* Optional 3.2 mm drill bit if M3 holes are too tight
+
+## Important Notes Before Assembly
+
+Do not fully tighten the hinge screws at first. The finger joints need to rotate freely. If the screws are too tight, the fingers will become stiff and the servos may not move them properly.
+
+Most screw holes are close to 3 mm in diameter, so M3 screws are the best choice for most joints and mounts. Some larger hinge holes may fit M4 screws, but M3 screws with washers may still work depending on how the parts fit.
+
+Do not power all servos directly from the Raspberry Pi Pico. Servos should use an external 5V power source. The Raspberry Pi Pico and servo power supply must share a common ground.
+
+## Step 1: Prepare the Printed Parts
+
+Lay out all of the 3D-printed parts before assembly. Separate the parts into groups:
+
+* Palm/base
+* Pinky finger parts
+* Ring finger parts
+* Middle finger parts
+* Pointer/index finger parts
+* Thumb parts
+* Servo board or mounting plate
+* Caps or small connector pieces
+
+Check that each hinge hole is clean. If there is extra plastic, carefully remove it. Test an M3 screw through the hinge holes. If the screw does not fit, lightly widen the hole with a 3.2 mm drill bit.
+
+## Step 2: Assemble Each Finger
+
+Start with one finger at a time.
+
+For each regular finger, connect the pieces in this order:
+
+1. Base finger segment
+2. Middle finger segment
+3. Tip finger segment
+
+Line up the hinge holes between the parts. Insert an M3 screw through the hinge. Add a washer if needed, then secure it with a nut. Tighten the nut only enough to hold the pieces together while still allowing the joint to rotate.
+
+Repeat this process for the pinky, ring, middle, and pointer/index fingers.
+
+## Step 3: Assemble the Thumb
+
+The thumb has fewer segments than the other fingers. Connect the thumb base piece to the thumb tip piece using the hinge holes.
+
+Insert an M3 screw through the hinge and secure it with a nut. Keep the joint loose enough so the thumb can rotate smoothly.
+
+## Step 4: Attach the Fingers to the Palm
+
+Place each assembled finger into its correct position on the palm:
+
+* Pinky on the outside edge
+* Ring finger next to the pinky
+* Middle finger in the center
+* Pointer/index finger next to the thumb side
+* Thumb on the side of the palm
+
+Line up the base hinge holes of each finger with the matching holes on the palm. Insert screws through the hinge points and secure them with nuts.
+
+Do not overtighten the screws. Each finger should be able to bend smoothly by hand.
+
+## Step 5: Mount the Servos
+
+Mount the SG90 servos into the servo slots or servo board area. These servos control the smaller finger movements.
+
+Use small screws to secure the servos in place. If the servo mounting holes are around 3 mm, use M3 screws. If the holes are smaller, use the screws that came with the servos.
+
+Mount the MG996R servo in the larger servo position. This servo is stronger and should be used for a larger movement, such as wrist, palm, or thumb motion depending on your design.
+
+Make sure all servo horns can rotate without hitting the palm or finger parts.
+
+## Step 6: Connect the Rubber Bands
+
+Attach small rubber bands to the fingers so they help return the fingers to their open position.
+
+A simple setup is:
+
+1. Hook one side of the rubber band near the finger segment.
+2. Hook the other side to the palm or another fixed point.
+3. Test the finger by bending it.
+4. Make sure the rubber band pulls the finger back without being too tight.
+
+The rubber bands should help the fingers return, but they should not be so tight that the servos struggle to move the fingers.
+
+## Step 7: Connect Servos to Fingers
+
+Connect each servo horn to its matching finger using string, wire, or linkage depending on your design.
+
+A basic setup is:
+
+* Servo rotates forward → pulls the finger closed
+* Rubber band pulls back → finger opens again
+
+Before attaching the servo horn permanently, center the servo using code. This prevents the finger from starting in the wrong position.
+
+## Step 8: Wire the Electronics
+
+Each servo has three wires:
+
+* Red wire: 5V power
+* Brown or black wire: Ground
+* Orange, yellow, or white wire: Signal
+
+Suggested Raspberry Pi Pico signal pins:
+
+* SG90 servo 1: GP11
+* SG90 servo 2: GP12
+* SG90 servo 3: GP13
+* SG90 servo 4: GP14
+* MG996R servo: GP15
+
+Connect all servo ground wires to the external power supply ground. Also connect the Raspberry Pi Pico ground to the same ground. This is called a common ground.
+
+Use an external 5V power source for the servos. Do not power all the servos from the Pico’s 3.3V pin.
+
+## Step 9: Upload Test Code
+
+Upload simple servo test code to the Raspberry Pi Pico.
+
+Test one servo at a time first. Make sure each servo moves correctly before testing all fingers together.
+
 ## Credits
 
 Blender, Onshape and finally Thank you so much to all my Friends & Mentors
