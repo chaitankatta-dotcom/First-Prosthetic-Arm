@@ -74,18 +74,7 @@ Do not power all servos directly from the Raspberry Pi Pico. Servos should use a
 
 ## Step 1: Prepare the Printed Parts
 
-Lay out all of the 3D-printed parts before assembly. Separate the parts into groups:
-
-* Palm/base
-* Pinky finger parts
-* Ring finger parts
-* Middle finger parts
-* Pointer/index finger parts
-* Thumb parts
-* Servo board or mounting plate
-* Caps or small connector pieces
-
-Check that each hinge hole is clean. If there is extra plastic, carefully remove it. Test an M3 screw through the hinge holes. If the screw does not fit, lightly widen the hole with a 3.2 mm drill bit.
+Lay out all of the 3D-printed parts before assembly.
 
 ## Step 2: Assemble Each Finger
 
@@ -119,8 +108,6 @@ Place each assembled finger into its correct position on the palm:
 
 Line up the base hinge holes of each finger with the matching holes on the palm. Insert screws through the hinge points and secure them with nuts.
 
-Do not overtighten the screws. Each finger should be able to bend smoothly by hand.
-
 ## Step 5: Mount the Servos
 
 Mount the SG90 servos into the servo slots or servo board area. These servos control the smaller finger movements.
@@ -135,23 +122,9 @@ Make sure all servo horns can rotate without hitting the palm or finger parts.
 
 Attach small rubber bands to the fingers so they help return the fingers to their open position.
 
-A simple setup is:
-
-1. Hook one side of the rubber band near the finger segment.
-2. Hook the other side to the palm or another fixed point.
-3. Test the finger by bending it.
-4. Make sure the rubber band pulls the finger back without being too tight.
-
-The rubber bands should help the fingers return, but they should not be so tight that the servos struggle to move the fingers.
-
 ## Step 7: Connect Servos to Fingers
 
 Connect each servo horn to its matching finger using string, wire, or linkage depending on your design.
-
-A basic setup is:
-
-* Servo rotates forward → pulls the finger closed
-* Rubber band pulls back → finger opens again
 
 Before attaching the servo horn permanently, center the servo using code. This prevents the finger from starting in the wrong position.
 
