@@ -72,11 +72,11 @@ Most screw holes are close to 3 mm in diameter, so M3 screws are the best choice
 
 Do not power all servos directly from the Raspberry Pi Pico. Servos should use an external 5V power source. The Raspberry Pi Pico and servo power supply must share a common ground.
 
-## Step 1: Prepare the Printed Parts
+### Step 1: Prepare the Printed Parts
 
 Lay out all of the 3D-printed parts before assembly.
 
-## Step 2: Assemble Each Finger
+### Step 2: Assemble Each Finger
 
 Start with one finger at a time.
 
@@ -90,13 +90,13 @@ Line up the hinge holes between the parts. Insert an M3 screw through the hinge.
 
 Repeat this process for the pinky, ring, middle, and pointer/index fingers.
 
-## Step 3: Assemble the Thumb
+### Step 3: Assemble the Thumb
 
 The thumb has fewer segments than the other fingers. Connect the thumb base piece to the thumb tip piece using the hinge holes.
 
 Insert an M3 screw through the hinge and secure it with a nut. Keep the joint loose enough so the thumb can rotate smoothly.
 
-## Step 4: Attach the Fingers to the Palm
+### Step 4: Attach the Fingers to the Palm
 
 Place each assembled finger into its correct position on the palm:
 
@@ -108,7 +108,7 @@ Place each assembled finger into its correct position on the palm:
 
 Line up the base hinge holes of each finger with the matching holes on the palm. Insert screws through the hinge points and secure them with nuts.
 
-## Step 5: Mount the Servos
+### Step 5: Mount the Servos
 
 Mount the SG90 servos into the servo slots or servo board area. These servos control the smaller finger movements.
 
@@ -118,17 +118,17 @@ Mount the MG996R servo in the larger servo position. This servo is stronger and 
 
 Make sure all servo horns can rotate without hitting the palm or finger parts.
 
-## Step 6: Connect the Rubber Bands
+### Step 6: Connect the Rubber Bands
 
 Attach small rubber bands to the fingers so they help return the fingers to their open position.
 
-## Step 7: Connect Servos to Fingers
+### Step 7: Connect Servos to Fingers
 
 Connect each servo horn to its matching finger using string, wire, or linkage depending on your design.
 
 Before attaching the servo horn permanently, center the servo using code. This prevents the finger from starting in the wrong position.
 
-## Step 8: Wire the Electronics
+### Step 8: Wire the Electronics
 
 Each servo has three wires:
 
@@ -148,7 +148,7 @@ Connect all servo ground wires to the external power supply ground. Also connect
 
 Use an external 5V power source for the servos. Do not power all the servos from the Pico’s 3.3V pin.
 
-## Step 9: Upload Test Code
+### Step 9: Upload Test Code
 
 Upload simple servo test code to the Raspberry Pi Pico.
 
