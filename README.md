@@ -181,4 +181,4 @@ Blender, Onshape and finally Thank you so much to all my Friends & Mentors
 
 ## Zine
 
-<img width="1023" height="1537" alt="ZineUpdatedAgain" src="https://github.com/user-attachments/assets/313ad0bf-56e6-4064-82f0-b4132dc5c8dd" />
+<img width="1024" height="1536" alt="Poster" src="https://github.com/user-attachments/assets/369cfe5a-4648-445a-8fac-623c39a035ee" />
