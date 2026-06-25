@@ -159,8 +159,8 @@ Test one servo at a time first. Make sure each servo moves correctly before test
 Blender, Onshape and finally Thank you so much to all my Friends & Mentors
 
 ## Pictures
-<img width="1405" height="631" alt="Screenshot 2026-06-22 134310" src="https://github.com/user-attachments/assets/6ef3d566-6400-479e-895f-128de2bfcbde" />
-<img width="1052" height="836" alt="Screenshot 2026-06-22 134258" src="https://github.com/user-attachments/assets/3a94bc90-f0e8-49b5-bd7c-9ef480b85ffc" />
+<img width="533" height="413" alt="Screenshot 2026-06-25 121902" src="https://github.com/user-attachments/assets/ec7011b4-b130-4da6-bd4c-c41168151887" />
+<img width="635" height="268" alt="Screenshot 2026-06-25 121912" src="https://github.com/user-attachments/assets/69a40361-e615-42d3-88ab-ed9e8e3f973c" />
 <img width="527" height="682" alt="Screenshot 2026-06-25 121727" src="https://github.com/user-attachments/assets/31ed1132-cb66-4996-837f-0eda3d82b2bb" />
 
 ## BOM
