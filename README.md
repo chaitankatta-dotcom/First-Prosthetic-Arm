@@ -77,7 +77,7 @@ Do not power all servos directly from the Raspberry Pi Pico. Servos should use a
 
 ### Step 1: Prepare the Printed Parts
 
-Lay out all of the 3D-printed parts before assembly.
+3D-print parts before assembly.
 
 ### Step 2: Assemble Each Finger
 
@@ -149,7 +149,7 @@ Suggested Raspberry Pi Pico signal pins:
 
 Connect all servo ground wires to the external power supply ground. Also connect the Raspberry Pi Pico ground to the same ground. This is called a common ground.
 
-Use an external 5V power source for the servos. Do not power all the servos from the Pico’s 3.3V pin.
+Use an external 5V power source for the servos. Do not power all the servos from the Pico’s 3.3V pin. Use the Boost converter with battery to acheive 5V.
 
 ### Step 9: Upload Test Code
 
