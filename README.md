@@ -187,4 +187,4 @@ Blender, Onshape and finally Thank you so much to all my Friends & Mentors
 
 ## Zine
 
-<img width="1410" height="2000" alt="Low Cost Prosthetic Hand (3)" src="https://github.com/user-attachments/assets/940b9321-3313-48b1-835b-de200404a12c" />
+<img width="1410" height="2000" alt="Low Cost Prosthetic Hand (4)" src="https://github.com/user-attachments/assets/b1f0a3b0-a6b9-40bc-bf98-cda6895de8d6" />
