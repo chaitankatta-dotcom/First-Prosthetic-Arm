@@ -62,6 +62,9 @@ This guide explains how to assemble the simple robotic prosthetic hand. The hand
 * Budget soldering kit
 * Screwdriver
 * Pliers
+* Wire Converter
+* Boost COnverter
+* 3.7V battery
 * Optional 3.2 mm drill bit if M3 holes are too tight
 
 ## Important Notes Before Assembly
